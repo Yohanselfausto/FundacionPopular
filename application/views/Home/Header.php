@@ -23,7 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!--[if lte IE 9]><link rel="stylesheet" href="<?php echo base_url();?>/assets/css/ie/v9.css" /><![endif]-->
 		<!--[if lte IE 8]><script src="<?php echo base_url();?>/assets/js/html5shiv.js"></script><![endif]-->
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		
+		<script src="<?php echo base_url();?>/assets/js/skel.min.js"></script>
+		<script src="<?php echo base_url();?>/assets/js/skel-panels.min.js"></script>
+		<script src="<?php echo base_url();?>/assets/js/init.js"></script>
 	</head>
 	<body class="homepage">
 
